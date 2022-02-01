@@ -1,6 +1,10 @@
-# maria_jader
+# maria_jader:smiley:
 
 
-((yo como jefe decidi borrar esto y quee, por que se veia muy desordenado))
+*(yo como jefe decidi borrar esto y quee, por que se veia muy desordenado)*
 
-HOLA soy maria una persona ajena al proyecto pero de iguañ ,anera me gustaria aprotar a este proyecto, claro i me ppermitten aportar a este proyecto
+este es un readme echo por jader lopez para que todo se vea bonito
+
+-no tolerare la pereza y flojera en mi vida(solo los domingos)
+
+-todo con esfuerzo y un poco de dedicacion se puede
